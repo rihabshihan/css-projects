@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(22, 57, 57);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button{
+    display: inline-block;
+    padding: 20px 20px;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    font-size: 25px;
+    text-align: center;
+    height: 20px;
+    width: 120px;
+    background-color: rgb(230, 230, 21);
+    color: rgb(22, 57, 57);
+    margin-top: 284px;
+    margin-left: 672px;
+    padding-bottom: 26px;
+}
+a:hover{
+    opacity: 0.5;
+}
